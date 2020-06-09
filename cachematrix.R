@@ -6,8 +6,8 @@
 # 
 # set the value of the matrix
 # get the value of the matrix
-# set the value of the matrix
-# get the value of the matrix
+# set the inverse value of the matrix
+# get the inverse value of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
     stopifnot(is.matrix(x))
